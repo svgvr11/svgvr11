@@ -7,7 +7,6 @@ Web UI Developer
 * 🌍  I'm based in Temuco, Chile
 * 🚀  I'm currently working on [NTT Data](http://cl.nttdata.com/)
 * 🧠  I'm learning Ionic Framework with Angular
-* ⚡  Sadly, I play League of Legends
 
 ### Skills
 
