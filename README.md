@@ -1,12 +1,10 @@
-Hi 👋 My name is Victor Muñoz Fernandez
+Hi 👋 My name is Victor Munoz Fernandez
 =======================================
 
-Web UI Developer
+Angular UI Developer
 ----------------
 
-* 🌍  I'm based in Temuco, Chile
-* 🚀  I'm currently working on [NTT Data](http://cl.nttdata.com/)
-* 🧠  I'm learning Ionic Framework with Angular
+* 🌍  Toronto, Canada
 
 ### Skills
 
